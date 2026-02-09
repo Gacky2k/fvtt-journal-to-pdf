@@ -25,7 +25,10 @@ users can review or build it themselves.
   - Proper table rendering
 - Removes Foundry-specific markup (UUIDs, embeds, UI cruft)
 
----
+- 
+
+---<img width="902" height="682" alt="Screenshot" src="https://github.com/user-attachments/assets/c07506d1-59ac-4bab-ac91-5032a2017a1c" />
+
 
 ## 📦 Downloads
 
@@ -66,4 +69,5 @@ py -m venv .venv
 .venv\Scripts\activate
 pip install -r requirements.txt
 python app.py
+
 
