@@ -16,8 +16,9 @@ users can review or build it themselves.
 ## ✨ Features
 
 - Opens JournalEntry JSON files exported via **Compendium Exporter**
+  or from individual Journals (JSON formatted).
 - Displays pages and headings in a checkbox tree
-- Export full pages or individual sections
+- Export full pages or individual sections (Must check what you want)
 - Clean PDF output:
   - Clickable Table of Contents
   - Internal navigation links
@@ -65,3 +66,4 @@ py -m venv .venv
 .venv\Scripts\activate
 pip install -r requirements.txt
 python app.py
+
