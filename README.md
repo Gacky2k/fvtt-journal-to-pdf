@@ -38,6 +38,7 @@ This release includes **two downloads**:
 - `FVTT-Journal-to-PDF.exe`
 - No Python required
 - Provided for convenience
+https://github.com/Gacky2k/fvtt-journal-to-pdf/releases/tag/v1.0.0
 
 ### 2. Source Code
 - Full Python source included
@@ -69,5 +70,6 @@ py -m venv .venv
 .venv\Scripts\activate
 pip install -r requirements.txt
 python app.py
+
 
 
