@@ -16,19 +16,15 @@ users can review or build it themselves.
 ## ✨ Features
 
 - Opens JournalEntry JSON files exported via **Compendium Exporter**
-  or from individual Journals (JSON formatted).
 - Displays pages and headings in a checkbox tree
-- Export full pages or individual sections (Must check what you want)
+- Export full pages or individual sections
 - Clean PDF output:
   - Clickable Table of Contents
   - Internal navigation links
   - Proper table rendering
 - Removes Foundry-specific markup (UUIDs, embeds, UI cruft)
 
-- 
-
----<img width="902" height="682" alt="Screenshot" src="https://github.com/user-attachments/assets/c07506d1-59ac-4bab-ac91-5032a2017a1c" />
-
+---
 
 ## 📦 Downloads
 
@@ -38,7 +34,6 @@ This release includes **two downloads**:
 - `FVTT-Journal-to-PDF.exe`
 - No Python required
 - Provided for convenience
-https://github.com/Gacky2k/fvtt-journal-to-pdf/releases/tag/v1.0.0
 
 ### 2. Source Code
 - Full Python source included
@@ -70,6 +65,3 @@ py -m venv .venv
 .venv\Scripts\activate
 pip install -r requirements.txt
 python app.py
-
-
-
