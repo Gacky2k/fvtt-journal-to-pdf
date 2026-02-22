@@ -2,3 +2,6 @@ PySide6
 reportlab
 beautifulsoup4
 lxml
+pillow
+cairosvg
+
